@@ -1,0 +1,1 @@
+Using http://www.unit-conversion.info/texttools/uppercase/#data to convert morse code to text. Using netcat to retrieve data and send it to the converter.

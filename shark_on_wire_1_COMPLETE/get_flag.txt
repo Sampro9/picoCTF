@@ -1,0 +1,1 @@
+Using WireShark, we right-click on a UDP packet and go-to "Follow UDP stream". In the window that pops up, we add to the filter our flag prefix "picoCTF", and advance through the pages. Found the flag after 4-5.

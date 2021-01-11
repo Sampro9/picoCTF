@@ -1,0 +1,1 @@
+We have to use an online image decoder. I used https://stylesuxx.github.io/steganography/, uploaded the image and found the flag.

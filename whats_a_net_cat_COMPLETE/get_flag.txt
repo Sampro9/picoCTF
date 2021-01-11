@@ -1,0 +1,1 @@
+Gotta use netcat (also known as ‘nc’ or ‘Swiss Army knife’). It's a networking utility used for reading or writing from TCP and UDP sockets using an easy interface.
