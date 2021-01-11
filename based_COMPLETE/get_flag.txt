@@ -1,0 +1,3 @@
+I used the website : https://onlineasciitools.com/convert-arbitrary-base-to-ascii
+
+It takes a word written in an arbitrary base and converts it into ASCII.

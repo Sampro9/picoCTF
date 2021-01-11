@@ -1,0 +1,19 @@
+Each block represents 4 in hex. So we follow the steps.
+
+This is the stack after the first 2 commands :
+
++---------+
+| old ebp | <-- ebp
++---------+
+| ret     | <-- ebp + 0x4
++---------+
+| 0x2e0   | <-- ebp + 0x8
++---------+
+
+Then, we skip the first compare because our value (0x2e0) is lesser than 0x767.
+
+We jump to the +29 block since 0x1f3 != our value (0x2e0).
+
+We assign eax to our value, to which we subtract 'a'.
+
+We finally jump straight to the block #60 where we exit the function and return the flag value : 0x2D6.

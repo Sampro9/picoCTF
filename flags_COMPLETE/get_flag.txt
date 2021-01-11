@@ -1,0 +1,5 @@
+After searching "diamond flags" on Google, I came accross this Wikipedia page : https://commons.wikimedia.org/wiki/Gallery_of_flags_with_diamonds. Found out our flags are actually the flags of the International Code of Signals (ICS).
+
+I then came accross the International maritime signal flags, which contains numbers (flags that were not on the ICS)
+
+We then get the very simple 1:1 mapping using the chart : https://en.wikipedia.org/wiki/International_Code_of_Signals#/media/File:ICS-flags.png
