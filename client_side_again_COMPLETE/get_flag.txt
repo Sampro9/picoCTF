@@ -1,0 +1,3 @@
+Put a breakpoint in the browser, got all the content of the array and found the flag easily.
+
+TO-DO : Automate the shit out of this
