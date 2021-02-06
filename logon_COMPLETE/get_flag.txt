@@ -1,0 +1,7 @@
+We notice we can login as Joe with whatever password. This is a good sign there is probably a cookie we can modify.
+
+Go under DevTools (Ctrl+Shift+I) > Application > Cookies
+
+We find the admin parameter set to False. 
+
+Setting it to true and refreshing gives us the flag.
